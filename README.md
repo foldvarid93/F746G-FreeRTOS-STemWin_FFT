@@ -1,4 +1,4 @@
-#STM32F746G-DISCO FFT example. 
+# STM32F746G-DISCO FFT example. 
 
 This project based on HAL library and usig BSP functions.
 The project was created in Attolic Truestudio IDE.
